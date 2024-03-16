@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: insane-service-registry
 eureka:
   client:
     register-with-eureka: false
